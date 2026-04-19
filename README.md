@@ -29,17 +29,17 @@ o	Página
 
 o	Offset 
 
-4.	Se verifica si la página está en RAM
+3.	Se verifica si la página está en RAM
    
-5.	Si no está:
+4.	Si no está:
    
 o	Se produce un fallo de página 
 
 o	Se aplica FIFO 
 
-7.	Se traduce la dirección
+5.	Se traduce la dirección
    
-8.	Se muestra el estado de memoria
+6.	Se muestra el estado de memoria
     
 	Resultados obtenidos
   
